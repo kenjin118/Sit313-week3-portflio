@@ -1,0 +1,12 @@
+D:\Downloads\Xamarin\Xamarin\bin\iPhone\Debug\Xamarin.exe
+D:\Downloads\Xamarin\Xamarin\bin\iPhone\Debug\Xamarin.pdb
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\optimized\
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\Xamarin.csprojAssemblyReference.cache
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\Xamarin.csproj.CoreCompileInputs.cache
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\Xamarin.exe
+D:\Downloads\Xamarin\Xamarin\obj\iPhone\Debug\Xamarin.pdb
